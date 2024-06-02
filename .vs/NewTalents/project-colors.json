@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9adf8559-87ef-4037-ba0b-6ecbb2a62a7f": {
+      "ProjectGuid": "9adf8559-87ef-4037-ba0b-6ecbb2a62a7f",
+      "DisplayName": "NewTalents",
+      "ColorIndex": 0
+    },
+    "0ddad1f6-f6ed-452d-b459-b2e41f217aa5": {
+      "ProjectGuid": "0ddad1f6-f6ed-452d-b459-b2e41f217aa5",
+      "DisplayName": "TestNewTalent",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
